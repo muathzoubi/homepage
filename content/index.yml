@@ -1,14 +1,14 @@
-title: Nuxt UI Pro - Landing template
-description: Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
+title: RhZ Tools Pro - Home
+description: nlock the full potential of your applications with our robust suite of APIs designed to streamline your workflow and enhance your solutions.
 hero:
-  title: Build your landing in seconds
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
+  title: Empower Your Applications with Advanced SaaS APIs
+  description: Unlock the full potential of your applications with our robust suite of APIs designed to streamline your workflow and enhance your solutions.
   headline:
-    label: Made with Nuxt UI Pro
-    to: https://ui.nuxt.com/pro
+    label: Get Started Today
+    to: https://101010.10
     icon: i-heroicons-arrow-top-right-on-square-20-solid
   links:
-    - label: Get started
+    - label: Documentation
       icon: i-heroicons-arrow-right-20-solid
       trailing: true
       to: '#features'
@@ -64,11 +64,9 @@ pricing:
         color: gray
       features:
         - 1 GB Storage
-        - 1 Email Account
-        - 1 Domain
-        - 1 Website
-        - 1 Database
-        - 1 SSL Certificate
+        - 1 Account
+        - 3 Users 
+        - 100 Document
         - 1 Support Ticket
     - title: Standard
       description: A standard plan for small teams.
